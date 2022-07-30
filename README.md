@@ -19,4 +19,8 @@ Desarrollo de los temas solicitados
 ## Integrantes
 - Alejandro Leyton | ESP32
 - William Leyton | ESP32
+- Esteban Dario Carrizo | ESP32
+- Rafael Cabrera | ESP8266
+- Gonzalez Mario Alejandro | ESP32
+- Lot Brian Llanos Garcia | ESP8266
 
