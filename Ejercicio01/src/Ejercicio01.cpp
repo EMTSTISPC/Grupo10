@@ -1,14 +1,12 @@
 #include <Arduino.h>
 
-#define pinLED 13
-
-void setup() {
-   pinMode(pinLED, OUTPUT);
+void setup()
+{
+  Serial.begin(9600);
 }
-
-void loop() {
-  digitalWrite(pinLED, HIGH); // enciende el LED.
-  delay(500); // retardo en milisegundos
-  digitalWrite(pinLED, LOW); // apaga el LED.
-  delay(500);
+ 
+void loop()
+{
+Serial.print('hola');
+delay(2000);
 }
